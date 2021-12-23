@@ -81,18 +81,6 @@ const MintButton = styled(Button)`
 }
 `;
 
-const Title = styled.h1`
-  text-align: center;
-  margin: 20px auto;
-  color: #870101;
-  font-size: 3rem;
-  font-family: "Minitel";
-  font-weight: 300;
-  letter-spacing: 4px;
-  @media (min-width: 768px){
-  font-size: 6rem;}
-`;
-
 const Image = styled.img`
   display: block;
   max-width: 100%
