@@ -21,8 +21,18 @@ code {
 }
 
 @font-face {
+  font-family: "Etna";
+  src: url(./assets/fonts/Etna.ttf) format("truetype");
+}
+
+@font-face {
     font-family: "Corleone";
     src: url(./assets/fonts/Corleone.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Minitel";
+  src: url(./assets/fonts/Minitel.ttf) format("truetype");
 }
 
 @font-face {
